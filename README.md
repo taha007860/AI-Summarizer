@@ -8,7 +8,7 @@ Click [here](https://drive.google.com/file/d/1v4E7WcqtBDIBDxOcgTS-_FOAgnYglsls/p
 
 ## Screenshot :camera:
 
-![Screenshot of OpenAI GPT-4 Summarizer Application](OpenAI Article Summarizer - Google Chrome 2023-06-22 09-54-56.mp4 - Google Drive and 33 more pages - Work - Microsoft​ Edge 6_26_2023 3_35_00 PM.png "OpenAI GPT-4 Summarizer Application")
+![Screenshot of OpenAI GPT-4 Summarizer Application](openAI.png "OpenAI GPT-4 Summarizer Application")
 
 ## Technologies Used :computer:
 
