@@ -8,7 +8,7 @@ Click [here](https://drive.google.com/file/d/1v4E7WcqtBDIBDxOcgTS-_FOAgnYglsls/p
 
 ## Screenshot :camera:
 
-![Screenshot of OpenAI GPT-4 Summarizer Application](/images/screenshot.png "OpenAI GPT-4 Summarizer Application")
+![Screenshot of OpenAI GPT-4 Summarizer Application](openAI.png "OpenAI GPT-4 Summarizer Application")
 
 ## Technologies Used :computer:
 
